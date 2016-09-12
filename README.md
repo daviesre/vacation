@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a vacation site using Ipsum Lorem. It primarily is an experiment with Bootsrap.
+This is a vacation site using Lorem Ipsum. It primarily is an experiment with Bootsrap.
 
 ## Setup/Installation Requirements
 
