@@ -1,6 +1,6 @@
-# My Portfolio
+# Vacation
 
-#### A webpage for my programming portfolio, 6/10/2015
+#### Imaginary travel site
 
 #### By Russ Davies
 
